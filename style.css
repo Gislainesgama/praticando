@@ -1,0 +1,30 @@
+div{
+    display: inline-block;
+}
+
+#center {
+    background-color: black;
+    width: 560px;
+    height: 780px;
+    position: absolute;
+    z-index: 1;
+}
+
+#container {
+    background-image: url(./read_news.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1050px;
+    height: 780px;
+    position: absolute;
+    right: 0;
+    z-index: 0;
+}   
+
+#logo img {
+ padding:30px 50px;
+ width: 388px;
+ height: 94px;
+ position: absolute;
+ z-index: 2;
+ }
