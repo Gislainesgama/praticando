@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desenvolver uma pagina web simples usando html e css.
 
-- [Acesse o projeto finalizado, online](https://italokk.github.io/desafio/)
+- [Acesse o projeto finalizado, online](https://gislainesgama.github.io/praticando/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Italokk
+Feito com ♥ by Gislaine Gama
